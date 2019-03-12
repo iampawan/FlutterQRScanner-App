@@ -22,7 +22,7 @@ A new Flutter project.
 
 * Add this to your package's pubspec.yaml file:
 
-  `dependencies: barcode_scan: "^0.0.4"`
+  `dependencies: barcode_scan: "^1.0.0"`
 
 ### Android
 
